@@ -1,0 +1,8 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By
+170662094,"Change login form , give opportunity to change password and add mobile phone","",1,"Jan 6, 2020","Jan 12, 2020",feature,1,started,"Jan 11, 2020",,,arijetaizeiri,"Issue:
+1. Users want to have access via phone and to get message notification when login
+2. Users want to see the option for changing the password in the Login form
+
+Test case:
+Change and test if there is notification when users get log-in in the application.
+Add the option user to change the password ",https://www.pivotaltracker.com/story/show/170662094,arijetaizeiri
