@@ -1,0 +1,4 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By
+170757996,Validation of email address ,"",1,"Jan 13, 2020","Jan 19, 2020",bug,,started,"Jan 16, 2020",,,Naim Ahmetaj,"When the user put not valid format of email address, them app doesn’t inform user for
+incorrect format of email address. In this case App trying to connect instead of showing
+error message.",https://www.pivotaltracker.com/story/show/170757996,arijetaizeiri
